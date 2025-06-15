@@ -2,6 +2,10 @@
 
 A full-stack TodoList application built with the MERN stack (MongoDB, Express.js, React, Node.js), featuring a modern dark theme UI, AI-powered task management, and user authentication.
 
+## 🚀 Live Demo
+
+[mern-todolist-ai.vercel.app](https://mern-todolist-ai.vercel.app)
+
 ## 🌟 Features
 
 ### Frontend
@@ -167,18 +171,18 @@ todolist-app/
 - `MONGODB_URI`: MongoDB connection string
 - `FRONTEND_URL`: Frontend URL for CORS
 - `JWT_SECRET`: Secret for JWT tokens
-- `AI_API_KEY`: OpenAI API key
+- `OPENAI_API_KEY`: OpenAI API key
 
 ## 🌐 Deployment
 
 ### Frontend
 - Deployed on Vercel
-- Production URL: [Your Vercel URL]
+- Production URL: https://mern-todolist-ai.vercel.app
 - Environment variables configured in Vercel dashboard
 
 ### Backend
 - Deployed on Railway
-- Production URL: [Your Railway URL]
+- Production URL: https://mern-todolist-ai-production.up.railway.app
 - Environment variables configured in Railway dashboard
 
 ## 🤝 Contributing
