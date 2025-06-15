@@ -177,12 +177,12 @@ todolist-app/
 
 ### Frontend
 - Deployed on Vercel
-- Production URL: https://mern-todolist-ai.vercel.app
+- Production URL: [https://mern-todolist-ai.vercel.app](https://mern-todolist-ai.vercel.app)
 - Environment variables configured in Vercel dashboard
 
 ### Backend
 - Deployed on Railway
-- Production URL: https://mern-todolist-ai-production.up.railway.app
+- Production URL: [https://mern-todolist-ai-production.up.railway.app](https://mern-todolist-ai-production.up.railway.app)
 - Environment variables configured in Railway dashboard
 
 ## 🤝 Contributing
