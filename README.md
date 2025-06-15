@@ -69,7 +69,7 @@ A full-stack TodoList application built with the MERN stack (MongoDB, Express.js
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/todolist-app.git
+   git clone https://github.com/manikD1/mern-todolist-ai.git
    cd todolist-app
    ```
 
@@ -151,8 +151,8 @@ todolist-app/
 - `DELETE /api/todos/:id` - Delete todo
 
 ### AI Features
-- `POST /api/ai/refine` - Refine task description
-- `POST /api/ai/suggest` - Get task suggestions
+- `POST /api/ai/refine-task` - Refine task description
+- `POST /api/ai/suggest-tasks` - Get task suggestions
 
 ## 🔐 Environment Variables
 
