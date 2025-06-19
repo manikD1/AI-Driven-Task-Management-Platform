@@ -169,7 +169,7 @@ function Todo() {
       <div className="max-w-3xl mx-auto space-y-6">
         {/* Header section */}
         <div className="text-center">
-          <AppTitle title="My Todo List App" />
+          <AppTitle title="AI-Driven Task Management Platform" />
         </div>
 
         {/* Main content card */}

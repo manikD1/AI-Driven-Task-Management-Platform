@@ -1,6 +1,6 @@
-# TodoList MERN Stack Application
+# AI-Driven Task Management Platform
 
-A full-stack TodoList application built with the MERN stack (MongoDB, Express.js, React, Node.js), featuring a modern dark theme UI, AI-powered task management, and user authentication.
+A cloud-native productivity dashboard built with the MERN stack and OpenAI integration. Features intelligent task recommendations, automated reminders, and seamless deployment on Vercel/Railway.
 
 ## 🚀 Live Demo
 
