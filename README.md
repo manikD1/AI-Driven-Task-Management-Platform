@@ -4,7 +4,12 @@ A cloud-native productivity dashboard built with the MERN stack and OpenAI integ
 
 ## 🚀 Live Demo
 
-[mern-todolist-ai.vercel.app](https://mern-todolist-ai.vercel.app)
+**Frontend:** [ai-driven-task-management-platform-manik-dixits-projects.vercel.app](https://ai-driven-task-management-platform-manik-dixits-projects.vercel.app/)  
+**Backend API:** [ai-driven-task-management-platform.up.railway.app](https://ai-driven-task-management-platform.up.railway.app/)
+
+**GitHub Repo:** [github.com/manikD1/AI-Driven-Task-Management-Platform](https://github.com/manikD1/AI-Driven-Task-Management-Platform)
+
+---
 
 ## 🌟 Features
 
@@ -73,7 +78,7 @@ A cloud-native productivity dashboard built with the MERN stack and OpenAI integ
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/manikD1/mern-todolist-ai.git
+   git clone https://github.com/manikD1/AI-Driven-Task-Management-Platform.git
    cd todolist-app
    ```
 
@@ -102,7 +107,7 @@ A cloud-native productivity dashboard built with the MERN stack and OpenAI integ
    MONGODB_URI=your_mongodb_atlas_connection_string
    FRONTEND_URL=http://localhost:5173
    JWT_SECRET=your_jwt_secret
-   AI_API_KEY=your_openai_api_key
+   OPENAI_API_KEY=your_openai_api_key
    ```
 
 4. **Start Development Servers**
@@ -163,7 +168,7 @@ todolist-app/
 ### Frontend
 - `VITE_API_URL`: Backend API URL
   - Development: `http://localhost:3000/api`
-  - Production: `https://your-railway-backend-url/api`
+  - Production: Backend URL for CORS
 
 ### Backend
 - `PORT`: Server port (default: 3000)
@@ -177,12 +182,12 @@ todolist-app/
 
 ### Frontend
 - Deployed on Vercel
-- Production URL: [mern-todolist-ai.vercel.app](https://mern-todolist-ai.vercel.app)
+- Production URL: [ai-driven-task-management-platform-manik-dixits-projects.vercel.app](https://ai-driven-task-management-platform-manik-dixits-projects.vercel.app/)
 - Environment variables configured in Vercel dashboard
 
 ### Backend
 - Deployed on Railway
-- Production URL: [mern-todolist-ai-production.up.railway.app](https://mern-todolist-ai-production.up.railway.app)
+- Production URL: [ai-driven-task-management-platform.up.railway.app](https://ai-driven-task-management-platform.up.railway.app/)
 - Environment variables configured in Railway dashboard
 
 ## 🤝 Contributing
